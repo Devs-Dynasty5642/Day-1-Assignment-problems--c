@@ -2,7 +2,7 @@ problem 1:-   Ramesh's basic salary is input through the keyboard. His dearness 
               basic salary, and house rent allowance is 20% of basic salary. Write a program to calculate his gross salary.
 
 problem 2:-   The distance between two cities is given in kilometers in input through the keyboard. Write a program to 
-              convert and print this distance in meters, feet, inches, and centimeters.
+              convert and print this distance in meters, feet, inches, and centimeters. ---> done
 
 problem 3:-   Temperature of a city in Fahrenheit degrees is input through the keyboard. Write a program to convert this temperature
               to Centigrade degrees.
@@ -11,6 +11,8 @@ problem 4:-   The length and breadth of a rectangle and radius of a circle is gi
               calculate the area and perimeter of the rectangle and the area and circumference of the circle.
 
 
-problem 5:-  take two numbers in input and then print the greater one;
+problem 5:-  take two numbers in input and then print the greater one; ---> done
 
-problem 6:-  take a number in input print it is even or odd;
+problem 6:-  take a number in input and print it is even or odd; ---> done
+
+problem 7:-  take age in input and print you are eligible to vote or not
