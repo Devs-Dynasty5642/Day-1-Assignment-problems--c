@@ -6,3 +6,6 @@ problem 2:-   The distance between two cities is given in kilometers in input th
 
 problem 3:-   Temperature of a city in Fahrenheit degrees is input through the keyboard. Write a program to convert this temperature
               to Centigrade degrees.
+
+problem 4:-   The length and breadth of a rectangle and radius of a circle is given as input. Write a program to
+              calculate the area and perimeter of the rectangle and the area and circumference of the circle.
