@@ -16,13 +16,10 @@ If a five-digit number is input through the keyboard, write a program to calcula
 Write a program to receive Cartesian coordinates (x, y) of a point and convert them into polar coordinates (r, φ).
 
 **Hint:**  
-- \[
-r = \sqrt{x^2 + y^2}
-\]
 
-- \[
-\phi = \tan^{-1} \left(\frac{y}{x}\right)
-\]
+- r = \sqrt{x^2 + y^2}
+- Φ = tan^-1(y / x)
+
 
 ## Problem (c)
 Write a program to receive values of latitude (L1, L2) and longitude (G1, G2), in degrees, of two places on the earth and output the distance (D) between them in nautical miles. The formula for distance in nautical miles is:
