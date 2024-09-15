@@ -16,22 +16,29 @@ If a five-digit number is input through the keyboard, write a program to calcula
 Write a program to receive Cartesian coordinates (x, y) of a point and convert them into polar coordinates (r, φ).
 
 **Hint:**  
-- \( r = \sqrt{x^2 + y^2} \)  
-- \( \phi = \tan^{-1} \left(\frac{y}{x}\right) \)
+- \[
+r = \sqrt{x^2 + y^2}
+\]
+
+- \[
+\phi = \tan^{-1} \left(\frac{y}{x}\right)
+\]
 
 ## Problem (c)
 Write a program to receive values of latitude (L1, L2) and longitude (G1, G2), in degrees, of two places on the earth and output the distance (D) between them in nautical miles. The formula for distance in nautical miles is:
 
 \[
-D = 3963 \times \cos^{-1} \left( \sin L1 \times \sin L2 + \cos L1 \times \cos L2 \times \cos(G2 - G1) \right)
+D = 3963 \times \cos^{-1} \left( \sin L1 \times \sin L2 + \cos L1 \times \cos L2 \times \cos (G2 - G1) \right)
 \]
+
 
 ## Problem (d)
 Wind-chill factor is the felt air temperature on exposed skin due to wind. The wind-chill temperature is always lower than the air temperature and is calculated as per the following formula:
 
 \[
-\text{wcf} = 35.74 + 0.6215t + (0.4275t - 35.75) \times v^{0.16}
+wcf = 35.74 + 0.6215t + \left(0.4275t - 35.75\right) \times v^{0.16}
 \]
+
 
 Where:
 - \( t \) is the temperature
